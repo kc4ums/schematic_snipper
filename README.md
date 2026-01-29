@@ -52,7 +52,7 @@ python main.py
 
 ## 🖥️ Preview
 
-![Alt text for the image]("schematic_snipper\SchematicSnipper.jpg")
+![Alt text for the image]("SchematicSnipper.jpg")
 
 ## 📝 License
 
