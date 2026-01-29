@@ -1,8 +1,3 @@
-This is a great idea for a GitHub repo. Tools like this—specific, functional, and solving a real-world pain point—are exactly what people look for.
-
-I've written this README to be professional yet accessible, highlighting the "Recall" feature as a major selling point.
-
----
 
 # Schematic Snipper & Troubleshooter
 
