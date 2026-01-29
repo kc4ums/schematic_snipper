@@ -32,7 +32,7 @@ pip install pymupdf Pillow
 ```bash
 git clone https://github.com/YOUR_USERNAME/schematic-snipper.git
 cd schematic-snipper
-python main.py
+python schematic-snipper.py
 
 ```
 
