@@ -52,6 +52,8 @@ python main.py
 
 ## 🖥️ Preview
 
+![Alt text for the image]("C:\Projects\schematic_snipper\SchematicSnipper.jpg")
+
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
