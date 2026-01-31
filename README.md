@@ -49,9 +49,7 @@ python schematic-snipper.py
 
 ![Alt text for the image](SchematicSnipper.jpg)
 
-## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
